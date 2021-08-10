@@ -1,6 +1,8 @@
 <h1 style="color: #009c6a">egg + mysql + swagger-ui 博客内容管理服务端 Demo</h1>
 
-## [项目地址](https://github.com/hedongxiaoshimei/egg-cms-server)
+## [github 项目地址](https://github.com/hedongxiaoshimei/egg-cms-server)
+
+## [gitee 项目地址](https://gitee.com/fangshifu/cms-server)
 
 ## 前言
 - 针对想学习nodejs服务端知识的同学。
